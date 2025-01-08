@@ -1,0 +1,8 @@
+# Ignore environments
+env
+
+# Ignore Oracle server credentials file
+config.ini
+
+# Ignore Google API credentials file
+credenciales_api_Google.json
